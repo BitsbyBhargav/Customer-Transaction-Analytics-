@@ -1,0 +1,81 @@
+product_id,product_name,category,price
+1,boAt Airdopes 141,Electronics,1299.0
+2,"Samsung 43"" Smart TV",Electronics,28999.0
+3,Lenovo IdeaPad Slim 3,Electronics,42999.0
+4,Mi Power Bank 20000mAh,Electronics,1499.0
+5,Noise ColorFit Pro 4,Electronics,4999.0
+6,Levi's 511 Slim Jeans,Fashion,2499.0
+7,Nike Air Max 270,Fashion,8999.0
+8,Fabindia Kurta Set,Fashion,1899.0
+9,H&M Regular T-Shirt,Fashion,699.0
+10,Peter England Formal Shirt,Fashion,1299.0
+11,Aashirvaad Atta 10kg,Groceries,449.0
+12,Tata Gold Tea 500g,Groceries,299.0
+13,Fortune Sunflower Oil 5L,Groceries,699.0
+14,Maggi Noodles Pack of 12,Groceries,180.0
+15,Amul Butter 500g,Groceries,275.0
+16,Prestige Pressure Cooker 5L,Home & Kitchen,2199.0
+17,Milton Thermos 1L,Home & Kitchen,899.0
+18,Pigeon Non-Stick Tawa,Home & Kitchen,799.0
+19,Solimo Bedsheet Queen,Home & Kitchen,1199.0
+20,Philips Room Heater,Home & Kitchen,2499.0
+21,Lakme CC Cream,Beauty,349.0
+22,Mamaearth Vitamin C Serum,Beauty,599.0
+23,Dove Body Lotion 400ml,Beauty,349.0
+24,WOW Shampoo 300ml,Beauty,449.0
+25,Himalaya Face Wash 150ml,Beauty,199.0
+26,Atomic Habits - James Clear,Books,399.0
+27,The Psychology of Money,Books,349.0
+28,Wings of Fire - APJ Kalam,Books,199.0
+29,Zero to One - Peter Thiel,Books,449.0
+30,Rich Dad Poor Dad,Books,299.0
+31,Nivia Football Size 5,Sports,999.0
+32,Cosco Badminton Set,Sports,1299.0
+33,Boldfit Yoga Mat,Sports,699.0
+34,Skipping Rope Steel,Sports,399.0
+35,Protein Shaker Bottle,Sports,349.0
+36,OnePlus Nord CE 4,Electronics,24999.0
+37,Realme Narzo 70 Pro,Electronics,18999.0
+38,HP Pavilion Laptop 15,Electronics,52999.0
+39,Logitech MX Master 3,Electronics,8999.0
+40,JBL Flip 6 Speaker,Electronics,11999.0
+41,Zebronics Zeb-Rush Keyboard,Electronics,1299.0
+42,D-Link WiFi Router AC750,Electronics,1499.0
+43,Canon EOS M50 Camera,Electronics,49999.0
+44,Fastrack Analog Watch,Fashion,1999.0
+45,Zara Floral Dress,Fashion,3499.0
+46,US Polo T-Shirt Pack of 3,Fashion,1899.0
+47,Puma Running Shoes,Fashion,4499.0
+48,Van Heusen Formal Trousers,Fashion,2299.0
+49,Raymond Suit Fabric 1.5m,Fashion,3999.0
+50,Woodland Leather Shoes,Fashion,5499.0
+51,Basmati Rice 5kg,Groceries,649.0
+52,Saffola Gold Oil 2L,Groceries,399.0
+53,Britannia Good Day Biscuits,Groceries,160.0
+54,Kissan Mixed Fruit Jam 500g,Groceries,189.0
+55,Haldiram Bhujia 1kg,Groceries,349.0
+56,Catch Black Pepper 100g,Groceries,129.0
+57,Surf Excel Matic 2kg,Groceries,499.0
+58,Cello Opalware Dinner Set,Home & Kitchen,1799.0
+59,Prestige Mixer Grinder 750W,Home & Kitchen,3299.0
+60,Asian Paints Royale 1L,Home & Kitchen,899.0
+61,Godrej Locks Deadbolt,Home & Kitchen,1299.0
+62,Eureka Forbes Vacuum Cleaner,Home & Kitchen,5999.0
+63,Nilkamal Plastic Chair,Home & Kitchen,1499.0
+64,WOW Vitamin C Face Wash,Beauty,399.0
+65,Biotique Bio Honey Gel,Beauty,299.0
+66,Nivea Body Lotion SPF 50,Beauty,549.0
+67,Forest Essentials Face Oil,Beauty,1850.0
+68,Plum Goodness Green Tea Toner,Beauty,449.0
+69,Heads Up For Tails Dog Food,Sports,2199.0
+70,Cosco Basketball Size 7,Sports,1499.0
+71,Strauss Cricket Bat,Sports,1999.0
+72,Yonex Badminton Racket,Sports,2499.0
+73,TrueBasics Whey Protein 1kg,Sports,2999.0
+74,Decathlon Cycling Helmet,Sports,1299.0
+75,Think and Grow Rich,Books,299.0
+76,The Lean Startup,Books,449.0
+77,Sapiens - Yuval Noah Harari,Books,599.0
+78,Deep Work - Cal Newport,Books,399.0
+79,The Alchemist,Books,299.0
+80,Ikigai - Japanese Philosophy,Books,349.0
